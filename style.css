@@ -1,0 +1,22 @@
+body {font-size: 10pt; font-family: 'KoPub Dotum';}
+
+*{margin: 0; padding: 0; box-sizing: border-box; }
+ul, li{list-style: none; }
+li{float: left; margin-top:30px; margin-left: 200px;}
+a{text-decoration:none;}
+
+#wrap{width: 1280px; height: 6815; margin: 0 auto;}
+#nav{width: 1280px; height: 120px; background-color: skyblue;}
+#wrap1{width: 1280px; height: 965px; background-color: #fff; }
+#siru{width: 1280px; height: 2720px; background-color: #aaa; }
+#abismo{width: 1280px; height: 2660px; background-color: pink;}
+#footer{width: 1280px; height: 130px; background-color: darkblue;}
+
+header{width: 1280px; height: 340px;}
+header img {width: 1280px; height: 220px;}
+
+h1, h2, h3, h4, h5, h6 {text-align: center; font-size: 3em; padding: 30px;}
+p{text-align: center; font-size: 2em;}
+#nav h1{display: inline;}
+ul{font-size: 2.5em; font-weight: bold;}
+#footer p{color: white; padding-top: 50px;}
