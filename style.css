@@ -3,14 +3,17 @@ body {font-size: 10pt; font-family: 'KoPub Dotum';}
 *{margin: 0; padding: 0; box-sizing: border-box; }
 ul, li{list-style: none; }
 li{float: left; margin-top:30px; margin-left: 200px;}
-a{text-decoration:none;}
+a{text-decoration:none; color: #fff;}
+.clear{clear: both;}
+.main-img{width: 1280px;}
+.main-img img{width: 100%}
 
 #wrap{width: 1280px; height: 6815; margin: 0 auto;}
-#nav{width: 1280px; height: 120px; background-color: skyblue;}
+#nav{width: 1280px; height: 120px; background-color: #000;}
 #wrap1{width: 1280px; height: 965px; background-color: #fff; }
 #siru{width: 1280px; height: 2720px; background-color: #aaa; }
-#abismo{width: 1280px; height: 2660px; background-color: pink;}
-#footer{width: 1280px; height: 130px; background-color: darkblue;}
+#abismo{width: 1280px; height: 2660px; background-color: grey;}
+#footer{width: 1280px; height: 200px; background-color: #000;}
 
 header{width: 1280px; height: 340px;}
 header img {width: 1280px; height: 220px;}
@@ -19,4 +22,16 @@ h1, h2, h3, h4, h5, h6 {text-align: center; font-size: 3em; padding: 30px;}
 p{text-align: center; font-size: 2em;}
 #nav h1{display: inline;}
 ul{font-size: 2.5em; font-weight: bold;}
-#footer p{color: white; padding-top: 50px;}
+#fp1{color: lightgrey; padding-top: 40px; padding-left: 35px; text-align: left;}
+#fp2{color: lightgrey; padding-top: 20px; padding-left: 35px; text-align: left;}
+#fp-wrap{width: 1100px; height: 200px; float: left;}
+#f-img{width: 180px; height: 200px; float: left; padding-left: 30px; padding-top: 13px;}
+
+
+#sec1{width: 1280px; height: 620px; background-color:skyblue;}
+#endimg{width: 780px; height:620px; float: left;}
+#text1{width: 500px;height:620px; background-color: silver; float: left;}
+
+#text2{width: 580px;height:620px; float: left;}
+#standimg{width: 700px;height:620px; background-color: gold; float: left;}
+#sec2{width: 1280px; height: 620px; background-color: pink;}
